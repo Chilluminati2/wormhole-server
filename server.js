@@ -1,4 +1,5 @@
 const WebSocket = require('ws');
+const http = require('http');
 
 const PORT = process.env.PORT || 3000;
 
@@ -140,4 +141,3 @@ server.on('upgrade', (request, socket, head) => {
 server.listen(PORT, () => {
     console.log(`📡 HTTP/WebSocket server listening on port ${PORT}`);
 });
-
