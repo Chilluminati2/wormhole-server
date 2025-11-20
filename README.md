@@ -1,6 +1,6 @@
 # Wormhole Signaling Server
 
-WebSocket signaling server for [Wormhole](https://github.com/yourusername/wormhole) P2P desktop portal.
+WebSocket signaling server for [Wormhole](https://github.com/Chilluminati2/wormhole) P2P desktop portal.
 
 ## What This Does
 
@@ -46,3 +46,4 @@ Server runs on `ws://localhost:3000`
 ## License
 
 MIT
+
